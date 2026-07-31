@@ -1,0 +1,7 @@
+Add your files here:
+
+- hero-photo.jpg
+- Louise-Nguyen-Resume.pdf
+- Additional project and collage photos
+
+Keep image filenames lowercase and use hyphens instead of spaces when possible.
